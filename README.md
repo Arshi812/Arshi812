@@ -6,7 +6,7 @@
 
 <!-- 🖼️ Banner Image -->
 <p align="center">
-   <img src="https://miro.medium.com/v2/1*rpOhBuGzudHDqoOzN0Ib5g.gif" alt="Profile Banner" />
+   <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Profile Banner" />
 </p>
 
 <!-- 👩‍💻 Intro -->
