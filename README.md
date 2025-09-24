@@ -31,7 +31,7 @@ I'm a dedicated **Front-End Developer** passionate about building elegant, effic
 ---
 
 #### 💡 Front‑End Languages & Libraries:
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" style="border-radius:50%; vertical-align:middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" style="border-radius:50%; vertical-align:middle; margin-left:20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="border-radius:50%; vertical-align:middle; margin-left:20px;" />
@@ -40,14 +40,14 @@ I'm a dedicated **Front-End Developer** passionate about building elegant, effic
 </p>
 
 #### ⚛️ Frameworks & Libraries:
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" style="border-radius:50%; vertical-align:middle;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" style="vertical-align:middle; margin-left:20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" style="border-radius:50%; vertical-align:middle; margin-left:20px;" />
 </p>
 
 #### 🔧 Tools & Technologies:
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" style="border-radius:50%; vertical-align:middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" style="border-radius:50%; vertical-align:middle; margin-left:20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" style="border-radius:50%; vertical-align:middle; margin-left:20px;" />
@@ -57,7 +57,7 @@ I'm a dedicated **Front-End Developer** passionate about building elegant, effic
 </p>
 
 #### 🌐 Concepts:
-<p align="center">
+<p align="left">
   🔄 Responsive Web Design — adapting UI for all screens  
   🔁 Cross‑Browser Compatibility — consistent experience across browsers  
   🧱 Component‑Based Architecture — build UI with reusable building blocks  
